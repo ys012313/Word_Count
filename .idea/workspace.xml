@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45918ca6-5065-4c32-b1ef-d75767cf14c2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/2week.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/first/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/first/settings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/first/urls.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/first/wsgi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/manage.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/autocomplete.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/changelists.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/dashboard.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/fonts.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/forms.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/login.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/responsive.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/responsive_rtl.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/rtl.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/vendor/select2/LICENSE-SELECT2.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/vendor/select2/select2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/vendor/select2/select2.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/css/widgets.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/fonts/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/fonts/README.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/fonts/Roboto-Bold-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/fonts/Roboto-Light-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/fonts/Roboto-Regular-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/README.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/calendar-icons.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/gis/move_vertex_off.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/gis/move_vertex_on.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/icon-addlink.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/icon-alert.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/icon-calendar.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/icon-changelink.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/icon-clock.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/icon-deletelink.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/icon-no.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/icon-unknown-alt.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/icon-unknown.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/icon-yes.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/inline-delete.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/search.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/selector-icons.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/sorting-icons.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/tooltag-add.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/img/tooltag-arrowright.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/SelectBox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/SelectFilter2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/actions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/actions.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/admin/DateTimeShortcuts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/admin/RelatedObjectLookups.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/autocomplete.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/calendar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/cancel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/change_form.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/collapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/collapse.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/inlines.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/inlines.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/jquery.init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/popup_response.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/prepopulate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/prepopulate.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/prepopulate_init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/timeparse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/urlify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/jquery/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/jquery/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/LICENSE-SELECT2.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/ar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/az.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/bg.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/ca.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/cs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/da.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/de.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/el.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/en.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/es.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/et.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/eu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/fa.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/fi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/fr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/gl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/he.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/hi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/hr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/hu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/id.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/is.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/it.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/ja.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/km.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/ko.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/lt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/lv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/mk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/ms.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/nb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/nl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/pl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/pt-BR.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/pt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/ro.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/ru.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/sk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/sr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/sv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/th.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/tr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/uk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/vi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/zh-CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/i18n/zh-TW.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/select2.full.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/select2/select2.full.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/xregexp/xregexp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/admin/js/vendor/xregexp/xregexp.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/css/scrolling-nav.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/gulpfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/js/scrolling-nav.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/css/bootstrap-grid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/css/bootstrap-grid.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/css/bootstrap-reboot.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/css/bootstrap-reboot.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/js/bootstrap.bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/js/bootstrap.bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/js/bootstrap.bundle.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/js/bootstrap.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/bootstrap/js/bootstrap.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/jquery-easing/jquery.easing.compatibility.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/jquery-easing/jquery.easing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/jquery-easing/jquery.easing.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/jquery/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/jquery/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/jquery/jquery.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/jquery/jquery.slim.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/jquery/jquery.slim.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/vendor/jquery/jquery.slim.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/css/scrolling-nav.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/gulpfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/js/scrolling-nav.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/css/bootstrap-grid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/css/bootstrap-grid.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/css/bootstrap-reboot.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/css/bootstrap-reboot.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/js/bootstrap.bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/js/bootstrap.bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/js/bootstrap.bundle.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/js/bootstrap.bundle.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/js/bootstrap.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/bootstrap/js/bootstrap.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/jquery-easing/jquery.easing.compatibility.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/jquery-easing/jquery.easing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/jquery-easing/jquery.easing.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/jquery/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/jquery/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/jquery/jquery.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/jquery/jquery.slim.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/jquery/jquery.slim.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/static/wordcount/vendor/jquery/jquery.slim.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/admin.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/apps.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/migrations/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/models.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/css/scrolling-nav.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/gulpfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/js/scrolling-nav.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/css/bootstrap-grid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/css/bootstrap-grid.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/css/bootstrap-reboot.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/css/bootstrap-reboot.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/js/bootstrap.bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/js/bootstrap.bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/js/bootstrap.bundle.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/js/bootstrap.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/bootstrap/js/bootstrap.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/jquery-easing/jquery.easing.compatibility.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/jquery-easing/jquery.easing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/jquery-easing/jquery.easing.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/jquery/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/jquery/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/jquery/jquery.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/jquery/jquery.slim.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/jquery/jquery.slim.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/static/vendor/jquery/jquery.slim.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/templates/about.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/templates/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/templates/result.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/tests.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/first/wordcount/views.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first/wordcount/templates/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first/wordcount/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first/first/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+              <folding>
+                <element signature="e#629#661#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first/first/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="121" column="46" lean-forward="false" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrolling-nav.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first/wordcount/static/css/scrolling-nav.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="result.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/first/wordcount/templates/result.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/first/wordcount/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Start Boo</find>
+      <find>JavaSc</find>
+      <find>about</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/first/first/settings.py" />
+        <option value="$PROJECT_DIR$/first/wordcount/templates/home.html" />
+        <option value="$PROJECT_DIR$/first/first/urls.py" />
+        <option value="$PROJECT_DIR$/first/wordcount/templates/about.html" />
+        <option value="$PROJECT_DIR$/first/wordcount/templates/result.html" />
+        <option value="$PROJECT_DIR$/first/wordcount/views.py" />
+        <option value="$PROJECT_DIR$/first/wordcount/templates/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="57" />
+    <option name="y" value="24" />
+    <option name="width" value="932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2week" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2week" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2week" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2week" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2week" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2week" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2week" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2week" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/first/wordcount/static" />
+      <recent name="$PROJECT_DIR$/first/wordcount/templates" />
+      <recent name="$PROJECT_DIR$/first/wordcount/templates/wordcount" />
+      <recent name="$PROJECT_DIR$/first/wordcount/static/wordcount" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/first/wordcount/static" />
+      <recent name="$PROJECT_DIR$/first/wordcount/templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45918ca6-5065-4c32-b1ef-d75767cf14c2" name="Default" comment="" />
+      <created>1548332659228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548332659228</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="57" y="24" width="932" height="1056" extended-state="4" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3401728" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/first/wordcount/templates/css/scrolling-nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/wordcount/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/wordcount/static/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/wordcount/static/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/wordcount/static/css/scrolling-nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/first/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="121" column="46" lean-forward="false" selection-start-line="121" selection-start-column="46" selection-end-line="121" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/wordcount/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/wordcount/templates/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/first/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/wordcount/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/wordcount/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
